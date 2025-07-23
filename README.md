@@ -42,15 +42,6 @@ It allows users to register, log in, and chat instantly with other users in real
 
 ---
 
-## 📸 Screenshots
-
-![Login Page](./screenshots/login.png)
-![Chat Interface](./screenshots/chat.png)
-
-> 📁 _You can add these screenshots in a `screenshots/` folder_
-
----
-
 ## 🧪 Try It Locally
 
 ### 1. Clone both client and server
