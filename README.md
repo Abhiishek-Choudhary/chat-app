@@ -7,7 +7,7 @@ It allows users to register, log in, and chat instantly with other users in real
 
 ## 🔗 Live Demo
 
-👉 [View Live App](https://your-live-link.com)
+👉 [View Live App](https://chat-app-ten-alpha-25.vercel.app/)
 
 > ⚠️ **Note:** If the live link doesn't work, please visit the GitHub repo below.  
 > If it still doesn't work there, it's likely because the **MongoDB Atlas cluster is paused** (free tier limitation). Just unpause or connect your own MongoDB cluster to try it locally.
